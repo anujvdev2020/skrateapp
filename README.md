@@ -1,8 +1,11 @@
 # Getting Started with Create React App
 
-To Start the project go to the the src folder and run NPM I to install all the dependency.
+To Start the project go to the the src folder and run npm i to install all the dependency.
+
 Deployment url : https://62d44e88200b4b7e4b63e839--magenta-rabanadas-9eaae4.netlify.app/
+
 video recording url : https://www.loom.com/share/d8f9b954a9774c87ad0dfefccd37e451
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
