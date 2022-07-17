@@ -1,0 +1,6 @@
+export const skrateLogo=require('../assets/skrateLogo.png')
+export const signInDesign=require('../assets/signInDesign.png')
+export const avatar=require('../assets/avatar.png')
+export const homeIcon=require('../assets/homeIcon.png')
+export const rightArrow=require('../assets/rightArrow.png')
+export const shuffleIcon=require('../assets/shuffleIcon.png')
